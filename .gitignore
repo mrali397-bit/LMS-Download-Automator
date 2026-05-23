@@ -1,0 +1,24 @@
+.idea/
+# Compiled Java files
+*.class
+
+# Build directories
+/target/
+/out/
+src/main/resources/credentials.json
+tokens/
+src/main/resources/application.properties
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Maven wrapper (optional, keep if you use it)
+# !.mvn/
+
+# Log files
+*.log
+logs/
+
+# Downloaded files from the app itself
+downloads/
